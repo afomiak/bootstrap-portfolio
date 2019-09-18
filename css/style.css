@@ -1,0 +1,52 @@
+header.header-name {
+    background-color: teal;
+    text-align: center;
+    padding: 14px;
+}
+
+div.navbar,
+div.navbar ul {
+    width: 100%;
+    text-align: center;
+}
+
+img.aboutpage-image {
+    margin-bottom: 18px;
+}
+
+#nav-row{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+}
+header.header-name h1 {
+    color: white;
+    font-size: 28px;
+}
+
+div.row {
+    margin-bottom: 20px;
+}
+
+div.img-block {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 280px;
+}
+
+
+.img-block p {
+    background-color:teal;
+    color:white;
+    text-align:center;
+    padding:14px;
+    position: absolute;
+    left:0;
+    bottom: 5px;
+    width: 90%;
+    margin: auto 5%;
+}
